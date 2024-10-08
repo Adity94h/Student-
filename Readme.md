@@ -1,6 +1,5 @@
-Certainly! Below is the README file for your `FitnessChallenges` smart contract:
+<img width="714" alt="image" src="https://github.com/user-attachments/assets/74360482-e1fa-4060-a1a5-4cd18a7b8caa">
 
----
 
 # Fitness Challenges Smart Contract
 
